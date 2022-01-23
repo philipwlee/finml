@@ -1,4 +1,10 @@
 .*
+<<<<<<< HEAD
 !/.gitignore
 /data
 *zack*
+=======
+/data
+!/.gitignore
+
+>>>>>>> lectures 1 and 2
